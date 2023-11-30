@@ -1,0 +1,8 @@
+Botas (300 de ouro) | +25 de velocidade de movimento
+Botas da Rapidez (600 de ouro) | +60 de velocidade de movimento
+Botas Ionianas da Lucidez (950 de ouro) | +45 de velocidade de movimento, +20 de aceleração de habilidade
+Botas da Mobilidade (1.000 de ouro) | +25 de velocidade de movimento
+Botas Galvanizadas de Aço (1.100 de ouro) | +45 de velocidade de movimento, +20 de armadura 
+Grevas do Berserker (1.100 de ouro) | +45 de velocidade de movimento, +35% de velocidade de ataque
+Passos de Mercúrio (1.100 de ouro) | +45 de velocidade de movimento, +25 de resistência mágica, +30% de tenacidade
+Sapatos do Feiticeiro (1.100 de ouro) | +45 de velocidade de movimento, +18 de penetração mágica

@@ -1,0 +1,41 @@
+Estilhaço de Kircheis (700 de ouro) | +15% de velocidade de ataque
+Fulgor (700 de ouro) | Aumenta o dano de ataque após usar uma habilidade
+Braçadeira Cristalina (800 de ouro) | +200 de vida, +100% de regeneração de vida base
+Chamado do Carrasco (800 de ouro) | +20 de dano de ataque
+Colete Espinhoso (800 de ouro) | +30 de armadura
+Cota de Malha (800 de ouro) | +40 de armadura
+Couraça Lunar Alada (800 de ouro) | +150 de vida
+Faca da Fúria (800 de ouro) | +25% de velocidade de ataque
+Gema Ardente (800 de ouro) | +200 de vida, +10 de aceleração de habilidade
+Ídolo Proibido (800 de ouro) | +50% de regeneração de mana base, +8% de cura e resistência do escudo
+Orbe do Oblívio (800 de ouro) | +30 de poder de habilidade
+Cintilação Etérea (850 de ouro) | +35 de poder de habilidade
+Broquel Glacial (900 de ouro) | +20 de armadura, +250 de mana, +10 de aceleração de habilidade
+Capa Negatron (900 de ouro) | +50 de resistência mágica
+Cetro Vampírico (900 de ouro) | +15 de dano de ataque, +7% de roubo de vida
+Cinto do Gigante (900 de ouro) | +350 de vida
+Códex Demoníaco (900 de ouro) | +35 de poder de habilidade, +10 de aceleração de habilidade
+Espelho de Bandópolis (950 de ouro) | +20 de poder de habilidade, +10 de aceleração de habilidade, +50% de regeneração de mana base
+Arco Recurvo (1.000 de ouro) | +25% de velocidade de ataque
+Armaguarda da Caçadora (1.000 de ouro) | +30 de poder de habilidade, +15 de armadura
+Barreira Verdejante (1.000 de ouro) | +20 de poder de habilidade, +25 de resistência mágica
+Brasa de Bami (1.000 de ouro) | +300 de vida
+Carapaça do Vigia (1.000 de ouro) | +40 de armadura
+Machado Termestre (1.000 de ouro) | +15 de dano de ataque, +15% de velocidade de ataque
+Alternador Hextec (1.050 de ouro) | +25 de poder de habilidade, +150 de vida
+Zelo (1.050 de ouro) | +18% de velocidade de ataque, +15% de chance de acerto crítico
+Chicote Ferrifarpo (1.100 de ouro) | +30 de dano de ataque
+Fago (1.100 de ouro) | +15 de dano de ataque, +200 de vida
+Martelo de Guerra de Caufield (1.100 de ouro) | +25 de dano de ataque, +10 de aceleração de habilidade
+Pedra-Vigia Observadora (1.100 de ouro) | +150 de vida, +10 de aceleração de habilidade
+Punhal Serrilhado (1.100 de ouro) | +30 de dano de ataque
+Tiamat (1.200 de ouro) | +25 de dano de ataque
+Capuz do Espectro (1.250 de ouro) | +250 de vida, +25 de resistência mágica
+Joia da Ruína (1.250 de ouro) | +25 de poder de habilidade, +13% de penetração mágica
+Aljava Vespertina (1.300 de ouro) | +30 de dano de ataque, +15% de velocidade de ataque
+Bandana de Mercúrio (1.300 de ouro) | +30 de resistência mágica
+Capítulo Perdido (1.300 de ouro) | +40 de poder de habilidade, +300 de mana, +10 de aceleração de habilidade
+Hexdrinker (1.300 de ouro) | +25 de dano de ataque, +35 de resistência mágica
+Olhar Sanguessuga (1.300 de ouro) | +20 de poder de habilidade, +250 de vida, +5% de vampirismo universal
+Égide da Legião (1.400 de ouro) | +30 de armadura, +30 de resistência mágica, +10 de aceleração de habilidade
+Último Sussurro (1.450 de ouro) | +20 de dano de ataque, +18% de penetração de armadura

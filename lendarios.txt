@@ -1,0 +1,67 @@
+Pedra-Vigia Vigilante (1.100 de ouro) | +150 de vida, +15 de aceleração de habilidade
+Ladrão de Almas de Mejai (1.600 de ouro) | +20 de poder de habilidade, +100 de vida
+Benção de Mikael (2.300 de ouro) | +16% de cura e resistência do escudo, +50 de resistência mágica, +15 de aceleração de habilidade, +100% de regeneração da mana base
+Cajado Aquafluxo (2.300 de ouro) | +50 de poder de habilidade, +8% de cura e resistência do escudo, +100% de regeneração da mana base
+Glaive Sombria (2.300 de ouro) | +50 de dano de ataque, +10 de letalidade, +15 de aceleração de habilidade
+Juramento do Cavaleiro (2.300 de ouro) | +400 de vida, +20 de aceleração de habilidade, +200% de regeneração da vida base
+Putrificador Quimtec (2.300 de ouro) | +60 de poder de habilidade, +20 de aceleração de habilidade, +100% de regeneração da mana base
+Redenção (2.300 de ouro) | +16% de cura e resistência do escudo, +200 de vida, +15 de aceleração de habilidade, +100% de regeneração da mana base
+Turíbulo Ardente (2.300 de ouro) | +60 de poder de habilidade, +8% de cura e resistência do escudo, +100% de regeneração da mana base
+Convergência de Zeke (2.400 de ouro) | +250 de vida, +35 de armadura, +250 de mana, +20 de aceleração de habilidade
+Canhão Fumegante (2.500 de ouro) | +35% de velocidade de ataque, +20% de chance de acerto crítico, +7% de velocidade de movimento
+Correntes de Anátema (2.500 de ouro) | +650 de vida, +20 de aceleração de habilidade
+Morellonomicon (2.500 de ouro) | +90 de poder de habilidade, +300 de vida
+Abraço de Seraph (2.600 de ouro) | +80 de poder de habilidade, +860 de mana, +250 de vida
+Cajado do Arcanjo (2.600 de ouro) | +60 de poder de habilidade, +500 de mana, +200 de vida
+Cetro de Cristal de Rylai (2.600 de ouro) | +75 de poder de habilidade, +400 de vida
+Dançarina Fantasma (2.600 de ouro) | +20 de dano de ataque, +25% de velocidade de ataque, +20% de chance de acerto crítico, +7% de velocidade de movimento
+Furacão de Runaan (2.600 de ouro) | +45% de velocidade de ataque, +20% de chance de acerto crítico, +7% de velocidade de movimento
+Lâmina da Fúria de Guinsoo (2.600 de ouro) | +45% de velocidade de ataque, +20% de chance de acerto crítico
+Lembrete Mortal (2.600 de ouro) | +35 de dano de ataque, +20% de velocidade de ataque, +20% de chance de acerto crítico, +7% de velocidade de movimento
+Presa da Serpente (2.600 de ouro) | +55 de dano de ataque, +12 de letalidade
+Véu da Banshee (2.600 de ouro) | +80 de poder de habilidade, +45 de resistência mágica, +10 de aceleração de habilidade
+Aproximação Invernal (2.700 de ouro) | +350 de vida, +500 de mana, +15 de aceleração de habilidade
+Armadura de Espinhos (2.700 de ouro) | +350 de vida, +60 de armadura
+Chuva de Canivete (2.700 de ouro) | +40 de dano de ataque, +15% de velocidade de ataque, +20% de chance de acerto crítico
+Coração Congelado (2.700 de ouro) | +90 de armadura, +400 de mana, +20 de aceleração de habilidade
+Presságio de Randuin (2.700 de ouro) | +250 de vida, +90 de armadura, +10 de aceleração de habilidade
+Máscara Abissal (2.700 de ouro) | +450 de vida, +35 de resistência mágica, +10 de aceleração de habilidade
+Cajado do Vazio (2.800 de ouro) | +65 de poder de habilidade, +40% de penetração mágica
+Colhedor de Essência (2.800 de ouro) | +45 de dano de ataque, +20% de chance de acerto crítico, +20 de aceleração de habilidade
+Quebracascos (2.800 de ouro) | +50 de dano de ataque, +400 de vida, +150% de regeneração de vida base
+Serrespada Quimiopunk (2.800 de ouro) | +55 de dano de ataque, +250 de vida, +25 de aceleração de habilidade
+Couraça do Defunto (2.900 de ouro) | +300 de vida, +45 de armadura, +5% de velocidade de movimento
+Força da Natureza (2.900 de ouro) | +350 de vida, +70 de resistência mágica, +5% de velocidade de movimento
+Limiar da Noite (2.900 de ouro) | +50 de dano de ataque, +5 de letalidade, +325 de vida
+Manamune (2.900 de ouro) | +35 de dano de ataque, +500 de mana, +15 de aceleração de habilidade
+Mandíbula de Malmortius (2.900 de ouro) | +55 de dano, +50 de resistência mágica, +20 de aceleração de habilidade
+Semblante Espiritual (2.900 de ouro) | +450 de vida, +50 de resistência mágica, +10 de aceleração de habilidade, +100% de regeneração de vida base
+Abraço Demoníaco (3.000 de ouro) | +75 de poder de habilidade, +350 de vida
+A Coletora (3.000 de ouro) | +55 de dano de ataque, +20% de chance de acerto crítico, +12 de letalidade
+Alvorada de Pratânia (3.000 de ouro) | +40 de dano de ataque, +300 de vida, +40 de resistência mágica
+Ampulheta de Zhonya (3.000 de ouro) | +80 de poder de habilidade, +45 de armadura, +15 de aceleração de habilidade
+Anjo Guardião (3.000 de ouro) | +45 de dano de ataque, +40 de armadura
+Arco do Axioma (3.000 de ouro) | +55 de dano de ataque, +10 de letalidade, +25 de aceleração de habilidade
+Armadura de Warmog (3.000 de ouro) | +800 de vida, +10 de aceleração de habilidade, +200% de regeneração de vida base
+Cimitarra Mercurial (3.000 de ouro) | +40 de dano de ataque, +20% de chance de acerto crítico, +40 de resistência mágica
+Chama Sombria (3.000 de ouro) | +100 de poder de habilidade, +200 de vida
+Dente de Na’Shor (3.000 de ouro) | +100 de poder de habilidade, +50% de velocidade de ataque
+Foco do Horizonte (3.000 de ouro) | +85 de poder de habilidade, +150 de vida, +15 de aceleração de habilidade
+Ímpeto Cósmico (3.000 de ouro) | +65 de poder de habilidade, +200 de vida, +30 de aceleração de habilidade, +5% de velocidade de movimento
+Lâmina Fantasma de Youmuu (3.000 de ouro) | +55 de dano de ataque, +18 de letalidade, +15 de aceleração de habilidade 
+Lembranças do Lorde Dominik (3.000 de ouro) | +30 de dano de ataque, +20% de chance de acerto crítico, +30% de penetração de armadura
+Muramana (3.000 de ouro) | +35 de dano de ataque, +860 de mana, +15 de aceleração de habilidade 
+Perdição de Lich (3.000 de ouro) | +75 de poder de habilidade, +15 de aceleração de habilidade, +8% de velocidade de movimento
+Cutelo Negro (3.100 de ouro) | +45 de dano de ataque, +350 de vida, +30 de aceleração de habilidade 
+Limite da Razão (3.100 de ouro) | +40 de dano de ataque, +40% de velocidade de ataque, +40 de resistência mágica
+Sinal de Sterak (3.100 de ouro) | +400 de vida
+Placa Gargolítica (3.200 de ouro) | +60 de armadura, +60 de resistência mágica, +15 de aceleração de habilidade
+Rancor de Serylda (3.200 de ouro) | +45 de dano de ataque, +30% de penetração de armadura, +20 de aceleração de habilidade 
+Dança da Morte (3.300 de ouro) | +55 de dano de ataque, +45 de armadura, +15 de aceleração de habilidade 
+Espada do Rei Destruído (3.300 de ouro) | +40 de dano de ataque, +25% de velocidade de ataque, +8% de roubo de vida
+Hidra Raivosa (3.300 de ouro) | +70 de dano de ataque, +20 de aceleração de habilidade, +10% de vampirismo universal
+Hidra Titânica (3.300 de ouro) | +30 de dano de ataque, +500 de vida
+Adagas Rápidas Navori (3.400 de ouro) | +60 de dano de ataque, +20% de chance de acerto crítico, +30 de aceleração de habilidade crítico, 
+Gume do Infinito (3.400 de ouro) | +70 de dano de ataque, +20% de chance de acerto crítico
+Sedenta Por Sangue (3.400 de ouro) | +55 de dano de ataque, +20% de chance de acerto crítico, +18% de roubo de vida
+Capuz da Morte de Rabadon (3.600 de ouro) | +120 de poder de habilidade

@@ -1,0 +1,10 @@
+Sentinela Invisível (gratuito) | Posiciona uma sentinela invisível no chão
+Lente do Oráculo (gratuito) | Realiza uma varredura para detectar sentinelas
+Alteração Vidente (gratuito) | Revela uma área e posiciona uma sentinela frágil
+Poção de Vida (50 de ouro) | Restaura 120 de vida ao longo de 15 segundos
+Sentinela de Controle (75 de ouro) | Posiciona uma poderosa sentinela de controle
+Poção com Refil (150 de ouro) | Duas cargas que restauram 100 de vida ao longo de 12 segundos
+Poção Corrupta (500 de ouro) | Três cargas que restauram 100 de vida e 75 de mana ao longo de 12 segundos
+Elixir da Feitiçaria (500 de ouro) | +50 de poder de habilidade e +15% de regeneração de mana por 3 minutos
+Elixir de Ferro (500 de ouro) | +300 de vida e +25 de tenacidade por 3 minutos
+Elixir da Ira (500 de ouro) | +30 de dano de ataque e +12% de vampirismo físico por 3 minutos

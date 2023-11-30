@@ -1,0 +1,10 @@
+Lacre Sombrio (350 de ouro) | +15 de poder de habilidade, +40 de vida
+Anel de Doran (400 de ouro) | +15 de poder de habilidade, +70 de vida
+Escudo Relicário (400 de ouro) | +5 de poder de habilidade, +30 de vida, +25% de regeneração de vida base, +2 de ouro a cada 10 segundos
+Foice Espectral (400 de ouro) | +5 de dano de ataque, +10 de vida, +25% de regeneração de mana base, +2 de ouro a cada 10 segundos
+Guarda-Ombros de Aço (400 de ouro) | +3 de dano de ataque, +30 de vida, +25% de regeneração de vida base, +2 de ouro a cada 10 segundos
+Gume do Ladrão Arcano (400 de ouro) | +8 de poder de habilidade, +10 de vida, +50% de regeneração de mana base, +2 de ouro a cada 10 segundos
+Lágrima da Deusa (400 de ouro) | +240 de mana
+Abatedora (450 de ouro) | +7 de dano de ataque
+Escudo de Doran (450 de ouro) | +80 de vida
+Lâmina de Doran (450 de ouro) | +8 de dano de ataque, +80 de vida

@@ -1,0 +1,15 @@
+Amuleto da Fada (250 de ouro) | +50% de regeneração de mana base
+Adaga (300 de ouro) | +12% de velocidade de ataque
+Couraça de Pano (300 de ouro) | +15 de armadura
+Pérola do Rejuvenescimento (300 de ouro) | +100% de regeneração de vida base
+Espada Longa (350 de ouro) | +250 de mana
+Cristal de Rubi (400 de ouro) | +10 de dano de ataque
+Tomo Amplificador (435 de ouro) | +150 de vida
+Mano Anula-Magia (450 de ouro) | +20 de poder de habilidade
+Capa da Agilidade (600 de ouro) | +25 de resistência mágica
+Cronômetro (750 de ouro) | Ative e fique invulnerável por 2.5 segundos
+Varinha Explosiva (850 de ouro) | +40 de poder de habilidade
+Picareta (875 de ouro) | +25 de dano de ataque
+Pedra-Vigia Inspiradora (1.200 de ouro) | +100 de vida, +10 de aceleração de habilidade
+Bastão Desnecessariamente Grande (1.250 de ouro) | +60 de poder de habilidade
+Espada G.P.C. (1.300 de ouro) | +40 de dano de ataque
